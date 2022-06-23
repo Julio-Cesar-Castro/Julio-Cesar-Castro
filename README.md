@@ -1,4 +1,4 @@
-### Olá! Eu sou Julio Castro 👋
+### Hello! I'm Julio Castro 👋
 
 - 🔭 Não estou trabalhando no momento.
 - 🌱 Atualmente estou estudando Front-end.

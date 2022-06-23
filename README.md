@@ -1,9 +1,9 @@
 ### Hello! I'm Julio Castro 👋
 
-- 🔭 Não estou trabalhando no momento.
-- 🌱 Atualmente estou estudando Front-end.
-- 📫 Contate-me no email: Juliocastro.contato@gmail.com
-- 😄 Ele/Dele
+- 🔭 I'm not working at the moment.
+- 🌱 I'm studying Front-End At VaiNaWeb.
+- 📫 Contact me At: Juliocastro.contato@gmail.com
+- 😄 He/Him
 
 <div align="center">
   <a href="https://github.com/JulioCastro240902">

@@ -19,7 +19,7 @@
   <img align="center" alt="Julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Julio-Styles" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png">
   <img align="center" alt="Julio-Styles" height="30" width="40" src="https://www.styled-components.com/atom.png">
-  <img align="right" alt="Julio-pic" height="150" width="150" styles="border-radius: 50%;" src="https://cdn.discordapp.com/attachments/986077194822512770/989624427694129173/WhatsApp-Image-2022-06-23-at-16.34.05.png">
+  <img align="right" alt="Julio-pic" height="150" width="150" styles="border-radius:50%" src="https://github.com/JulioCastro240902/Portifolio/blob/master/src/assets/Me.png">
 </div>
     
   ##

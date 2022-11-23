@@ -17,7 +17,7 @@
   <img align="center" alt="Julio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Julio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Julio-Styles" height="30" width="40" src="https://miro.medium.com/max/318/1*7jRD5QhgARucFKvRHFxpOg.png">
+  <img align="center" alt="Julio-Styles" height="30" width="40" src="https://images.velog.io/images/jun17114/post/3d5670a1-9d9d-479b-8025-3d0d4769c0e5/sc.png">
   <img align="right" alt="Julio-pic" height="150" width="150" styles="border-radius: 50%;" src="https://cdn.discordapp.com/attachments/986077194822512770/989624427694129173/WhatsApp-Image-2022-06-23-at-16.34.05.png">
 </div>
     

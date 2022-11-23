@@ -12,10 +12,11 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Julio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Julio-Js" height="30" width="40        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
   <img align="center" alt="Julio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Julio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" width="150" styles="border-radius: 50%;" src="https://cdn.discordapp.com/attachments/986077194822512770/989624427694129173/WhatsApp-Image-2022-06-23-at-16.34.05.png">
+  <img align="right" alt="Julio-pic" height="150" width="150" styles="border-radius: 50%;" src="https://cdn.discordapp.com/attachments/986077194822512770/989624427694129173/WhatsApp-Image-2022-06-23-at-16.34.05.png">
 </div>
     
   ##

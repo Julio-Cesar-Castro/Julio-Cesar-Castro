@@ -1,9 +1,8 @@
 ### Hello! I'm Julio Castro 👋
 
 - 🔭 I'm not working at the moment.
-- 🌱 I'm studying Front-End At VaiNaWeb.
+- 🌱 Graduated as Front-End At VaiNaWeb.
 - 📫 Contact me At: Juliocastro.contato@gmail.com
-- 😄 He/Him
 
 <div align="center">
   <a href="https://github.com/JulioCastro240902">

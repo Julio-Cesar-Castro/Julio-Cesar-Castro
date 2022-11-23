@@ -19,7 +19,7 @@
   <img align="center" alt="Julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Julio-Styles" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png">
   <img align="center" alt="Julio-Styles" height="30" width="40" src="https://www.styled-components.com/atom.png">
-  <img align="right" alt="Julio-pic" height="150" width="150" styles="border-radius:50%;" src="https://i.pinimg.com/564x/c4/e6/44/c4e644571843767fe69fb6654f818f5c.jpg">
+  <img align="right" alt="Julio-pic" height="150" width="150" styles="border-radius:50%;" src="https://camo.githubusercontent.com/7992ae6c60af860eb66928b86b6675d61e7302c4774e5e87be850ae00deec0ce/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3938363037373139343832323531323737302f3938393632343432373639343132393137332f57686174734170702d496d6167652d323032322d30362d32332d61742d31362e33342e30352e706e67">
 </div>
     
   ##

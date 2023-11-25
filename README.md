@@ -1,7 +1,8 @@
 ### Hello! I'm Julio Castro 👋
 
-- 🔭 I'm not working at the moment.
+- 🔭 Jr System analyst At Balluff Brasil.
 - 🌱 Graduated as Front-End At VaiNaWeb.
+- 🌱 Graduated as System analyst At Universidade Paulista.
 - 📫 Contact me At: Juliocastro.contato@gmail.com
 
 <div align="center">

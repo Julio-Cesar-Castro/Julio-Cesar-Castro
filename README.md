@@ -3,6 +3,7 @@
 - 🔭 Jr System analyst At Balluff Brasil.
 - 🌱 Graduated as Front-End At VaiNaWeb.
 - 🌱 Graduated as System analyst At Universidade Paulista.
+- :rseat: RocketSeat's Student
 - 📫 Contact me At: Juliocastro.contato@gmail.com
 
 <div align="center">

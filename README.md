@@ -7,9 +7,9 @@
 - 📫 Contact me At: Juliocastro.contato@gmail.com
 
 <div align="center">
-  <a href="https://github.com/JulioCastro240902">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioCastro240902&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCastro240902&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Julio-Cesar-Castro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julio-Cesar-Castro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-Cesar-Castro&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Julio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -31,7 +31,7 @@
   <a href = "mailto:Juliocastro.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/julio-cesar-castro-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
-   ![Snake animation](https://github.com/JulioCastro240902/JulioCastro240902/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/JulioCastro240902/Julio-Cesar-Castro/blob/output/github-contribution-grid-snake.svg)
    
  </div>
   
